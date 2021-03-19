@@ -1,0 +1,58 @@
+/**/
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    height: 60px;
+    background-color: slateblue;
+    color: whitesmoke;
+}
+h1{
+    padding-top: 10px;
+    text-align: center;
+}
+.banner{
+    height: 400px;
+    background-color:paleturquoise;
+}
+.about{
+    overflow: hidden;
+    height: 300px;
+    background-color: whitesmoke;
+    text-align: justify;
+}
+.aboutus{
+    float: left;
+    width: 48%;
+}
+.aboutus h1{
+    text-align: center;
+    color: #0063d4ab;
+    padding-bottom: 50px;
+}
+.image{
+    float: right;
+    width: 50%;
+    height: 300px;
+    color: whitesmoke;
+    background-color:#0063d4ab;
+}
+.service{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+.card{
+    width: 33.33%;
+    height: 180px;
+    float: left;
+    margin:5px;
+    background-color: whitesmoke;
+    padding: 20px;
+}
+.footer{
+    height: 70px;
+    background-color: skyblue;
+}
+
